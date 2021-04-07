@@ -1,1 +1,2 @@
-I am file created in master branch.
+I am file created in both master and feature/new-file branches.
+
